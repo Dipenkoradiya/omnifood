@@ -625,7 +625,7 @@ html {
     width: 35%;
 }
 .section8_image {
-    background-image: linear-gradient(to right bottom, rgba(235, 151, 78, 0.35), rgba(230, 125, 34, 0.35)), url(/omnifood/img/eating.jpg);
+    background-image: linear-gradient(to right bottom, rgba(235, 151, 78, 0.35), rgba(230, 125, 34, 0.35)), url(/img/eating.jpg);
     height: 100%;
     background-size: cover;
     background-position: center;
